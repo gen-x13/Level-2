@@ -23,7 +23,7 @@ It was a great learning experience, especially for my understanding of **visuali
 
 💡 My strengths: Determination & self-taught mindset.
 
-🚀 Areas for improvement: Code optimization and visualization optimization.
+🚀 Areas for improvement: Code and visualization optimization.
 
 ---
 
