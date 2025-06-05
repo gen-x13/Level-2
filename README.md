@@ -39,7 +39,13 @@ Before running the project, make sure you have the following libraries installed
 ```bash
 pip install pandas matplotlib seaborn
 ```
+---
 
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+---
 ### **💜 A Reminder:**
 
 ***Trust yourself !***
